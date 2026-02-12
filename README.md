@@ -2,6 +2,7 @@
 A simple Python program that converts temperatures between Celsius and Fahrenheit and vice-versa.
 
 How to Use:
+
 Run the program.
 
 Choose C to convert Celsius → Fahrenheit or F to convert Fahrenheit → Celsius.
@@ -13,6 +14,7 @@ See the result.
 Invalid choice ends the program.
 
 Example:
+
 Enter your choice (C/F): C
 
 Enter Celsius: 25
